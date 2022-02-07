@@ -1,7 +1,5 @@
-# add schedule
+# add schedule page
 #component 
-
-export -> [[RENDERED TO SCREEN]]
 
 - textInputs
 	- title
@@ -11,8 +9,17 @@ export -> [[RENDERED TO SCREEN]]
 - toggleButtons
 	- 7 buttons (array)
 
-- [nav buttons](nav.component)
-	- cancell -> [[TODAY.component]]
-	- apply 
-		- save data to async storage -> [[addSchedule.handler]] handler
-		- return home -> [[TODAY.component]]]
+- navigation
+
+cancell or apply
+- if on today
+	- change color in today button
+	- disable onpress capability on this.button
+		- cancell -> [[TODAY.component]]
+
+- else 
+	- change color in week button
+	- disable onpress capability on this.button
+		- apply 
+			- save data to async storage -> [[addSchedule.handler]] handler
+			- return home -> [[TODAY.component]]]

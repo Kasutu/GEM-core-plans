@@ -1,2 +1,2 @@
 #component
-export -> [[RENDERED TO SCREEN]]
+export -> [[app.js]]

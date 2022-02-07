@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d553ad166a9db6ae",
+        "id": "b7324d127c676210",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "cec0f63569a00460",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d553ad166a9db6ae",
+  "active": "b7324d127c676210",
   "lastOpenFiles": [
-    "app.js.md",
     "weeklayout.handler.md",
-    "SAVE_DATA.component.md",
     "asyncStorage.md",
-    "getToday.md",
-    "nav.component.md",
-    "cardsHandler.md",
-    "addSchedule.handler.md",
+    "TITLE.components.md",
+    "app.js.md",
+    "TODAY.component.md",
     "ADD_SCHED.component.md",
-    "RENDERED TO SCREEN.md"
+    "nav.component.md",
+    "DASHBOARD.component.md",
+    "WEEK.component.md",
+    "FILES_SYSTEM.handler.md"
   ]
 }

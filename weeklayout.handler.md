@@ -1,7 +1,7 @@
 #handlers
 
-- [[asyncStorage]] -> [[SAVE_DATA.component]] -> recieve json data and parse
+-  recieve json data and parse
 	- calculate position for render
-		- writeJSONdata using [[SAVE_DATA.component]]
+		- writeJSONdata using [[FILES_SYSTEM.handler]]
 
 export -> [[WEEK.component]]
