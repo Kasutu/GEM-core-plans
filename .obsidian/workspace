@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "2624aeb313fef9ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d553ad166a9db6ae",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0822bc318dfe6306",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d1b6a61832489d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278e9ae24c1d790f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae8207ef725cd08b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329
+  },
+  "right": {
+    "id": "cec0f63569a00460",
+    "type": "split",
+    "children": [
+      {
+        "id": "483e2d2d9b58bafc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaeb1b87337ed06f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d553ad166a9db6ae",
+  "lastOpenFiles": [
+    "app.js.md",
+    "weeklayout.handler.md",
+    "SAVE_DATA.component.md",
+    "asyncStorage.md",
+    "getToday.md",
+    "nav.component.md",
+    "cardsHandler.md",
+    "addSchedule.handler.md",
+    "ADD_SCHED.component.md",
+    "RENDERED TO SCREEN.md"
+  ]
+}
