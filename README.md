@@ -1,9 +1,9 @@
 # GEM-core-plans
 core app plan
 ---------------------------------------
-<img src="unknown.png">
-<img src="Merged_document.png">
----------------------------------------
+<img src="unknown.png"> <br />
+<img src="Merged_document.png"> <br />
+<br />
 # GEM-V1
 A minimal weekly scheduler for evreyone
 # dependencies
